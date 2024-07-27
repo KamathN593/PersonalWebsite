@@ -17,6 +17,8 @@
 //   );
 // }
 
+//javascript notes
+
 // export default App;
 
 import Alert from "./components/Alert";

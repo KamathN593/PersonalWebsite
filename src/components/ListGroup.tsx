@@ -8,6 +8,8 @@ interface Props {
   onSelectItem: (item: string) => void;
 }
 
+//added a comment
+
 function ListGroup({ items, heading, onSelectItem }: Props) {
   const [selectedIndex, setSelectedIndex] = useState(-1);
 
